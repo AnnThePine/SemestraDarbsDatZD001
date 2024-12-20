@@ -1,0 +1,25 @@
+
+{
+    "kludas": {
+        "glicerins": 0.8,
+        "diametrs": 0.000001,
+        "cilindra_diametrs": 0.00003,
+        "svari": 0.0000001,
+        "laiks": 0.191,
+        "g": 0.01,
+        "cels": 0.003
+    },
+    "nemainigie_lielumi": {
+        "glicerina_blivums": 1243.5,
+        "cilindra_diametrs": [0.06239, 0.06159, 0.06222],
+        "cels": 0.05,
+        "g": 9.81
+    },
+    "lodites": {
+        "lod_1":{
+            "diametrs": [0.002017, 0.00203,0.002039],
+            "laiks": [2.9, 3.11, 3.41],
+            "masa":[0.0000332, 0.0000332, 0.0000332]
+        }
+    }
+}
